@@ -1,11 +1,11 @@
-@media screen and (max-width: 1483px){
+@media screen and (max-width: 1485px){
     .offers{
         width: 65%;
     }
 }
-@media screen and (max-width: 1370px){
+@media screen and (max-width: 1373px){
     .offers{
-        width: 70%;
+        width: 72%;
     }
 }
 @media screen and (max-width: 1250px){
@@ -53,6 +53,9 @@
     
 }
 @media screen and (max-width: 714px){
+    header {
+        width: 100%;
+    }
     header nav ul{
         position: absolute;
         width: 100px;
