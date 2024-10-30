@@ -8,7 +8,7 @@ Array.from(document.getElementsByTagName('input')).forEach((e , i)=>{
     })
 })
 
-let menu_btn = document.getElementsByClassName('bi-house-door-fill')[0];
+let menu_btn = document.getElementsByClassName('bi-three-dots')[0];
 let menu_bx = document.getElementById('menu_bx');
 
 
